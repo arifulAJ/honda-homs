@@ -18,9 +18,7 @@ body{
 
     filter: grayscale(100%);}
      
-    .image-content-header.p-5 {
-        width: 500px;
-    }
+   
     /* text color  */
     .effect-color{
         color: #E76F51;
