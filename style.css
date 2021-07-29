@@ -1,0 +1,49 @@
+/* import font family  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* all button  */
+.btn-baground{
+    background-color: #E76F51;
+    width: 110px;
+}
+/* header background  */
+.backgroun{
+    background-color: #264653;
+}
+/* bike color effect */
+.extra-color{
+
+    filter: grayscale(100%);} 
+    /* text color  */
+    .effect-color{
+        color: #E76F51;
+    }
+/* background color */
+ 
+    .effect-color-i{
+        background-color: #E76F51;
+    }
+    /* button hover effect  */
+    .hover-effect{
+        color: #E76F51;
+        border: 1px solid #E76F51;
+    }
+  
+    .hover-effect:hover{
+        background-color: #E76F51;
+        color: white;
+
+    }
+    /* image resize  */
+    .image-resize{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border: 1px solid rgb(175, 167, 167);
+    }
+    .footer-color{
+        background-color: black;
+    }
